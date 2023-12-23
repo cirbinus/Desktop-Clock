@@ -3,7 +3,6 @@
 这是一个简洁、美观的桌面时钟。  
 
 ![image](show01.png)  
-![image](show02.png)  
 
 ## 说明
 
