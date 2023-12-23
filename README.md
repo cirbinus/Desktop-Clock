@@ -1,3 +1,5 @@
+**Read this in other languages: [中文](README_zh.md).**
+
 # Desktop clock
 
 This is a simple, beautiful desktop clock.
