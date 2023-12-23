@@ -1,8 +1,12 @@
 # 桌面时钟
 
+![image](show01.png)  
+![image](show02.png)  
+
 ## 说明
 
 1.桌面时钟基于Python3和Qt6开发，上传的文件包含TKinter版本。  
+2.快速改变并保存颜色，大小，模式。  
 2.Qt6支持Windows10-11，不支持Windows XP。  
 3.磨砂玻璃圆角背景尚未实现，但是api已经放在`my_window_effect.py`文件中。  
 
