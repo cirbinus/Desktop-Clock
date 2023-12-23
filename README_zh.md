@@ -1,3 +1,5 @@
+**Read this in other languages: [English](README.md).**
+
 # 桌面时钟
 
 这是一个简洁、美观的桌面时钟。  
