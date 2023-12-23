@@ -15,13 +15,13 @@ This is a simple, beautiful desktop clock.
 
 ## Running environment
 
-1. Desktop System (WIN10+)
-Windows 11 Pro 23H2
+1. Desktop System (WIN10+)  
+Windows 11 Pro 23H2  
 
-2.Python version (3.7+)
-Python3.7.4 64-bit
+2. Python version (3.7+)  
+Python3.7.4 64-bit  
 
-3. Third-party library: PySide6
+3. Third-party library: PySide6  
 ``pip install pyside6``
 
 ## Usage
@@ -34,17 +34,17 @@ Python3.7.4 64-bit
 4. Double-click the right mouse button to exit the program
 
 ### Configuration file
-` ` `
-x: The distance between the component and the left side of the screen.
-y: Distance between the component and the top of the screen.
-isontop: indicates whether the component is placed ontop.
+```
+x: The distance between the component and the left side of the screen.  
+y: Distance between the component and the top of the screen.  
+isontop: indicates whether the component is placed ontop.  
 
-font: Sets the font.
-fontsize: Sets the fontsize, which affects the component display size.
-isbold: Sets bold text.
-color: Sets the text color.
-background: Sets the component background color.
+font: Sets the font.  
+fontsize: Sets the fontsize, which affects the component display size.  
+isbold: Sets bold text.  
+color: Sets the text color.  
+background: Sets the component background color.  
 
-opacity: Sets component transparency.
-isframe: Sets whether to display a border.
-` ` `
+opacity: Sets component transparency.  
+isframe: Sets whether to display a border.  
+```
