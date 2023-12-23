@@ -1,14 +1,20 @@
 # 桌面时钟
 
+## 说明
+
+1.桌面时钟基于Python3和Qt6开发，上传的文件包含TKinter版本。  
+2.Qt6支持Windows10-11，不支持Windows XP。  
+3.磨砂玻璃圆角背景尚未实现，但是api已经放在`my_window_effect.py`文件中。  
+
 ## 运行环境
 
-桌面系统  
+1.桌面系统  
 Windows 11 专业版 23H2  
 
-Python版本(3.7+)  
+2.Python版本(3.7+)  
 Python3.7.4 64-bit  
 
-第三方库：PySide6  
+3.第三方库：PySide6  
 ``pip install pyside6``
 
 ## 用法
@@ -21,7 +27,7 @@ Python3.7.4 64-bit
 4.鼠标右键双击退出程序  
 
 ### 配置文件
-
+```
 x：组件与屏幕左边的距离。  
 y：组件与屏幕顶部的距离。  
 isontop：组件是否置顶。  
@@ -34,3 +40,4 @@ background：设置组件背景颜色。
 
 opacity：设置组件透明度。  
 isframe：设置是否显示边框。  
+```
