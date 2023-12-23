@@ -36,15 +36,15 @@ Python3.7.4 64-bit
 ### Configuration file
 ```
 x: The distance between the component and the left side of the screen.  
-y: Distance between the component and the top of the screen.  
-isontop: indicates whether the component is placed ontop.  
+y: The distance between the component and the top of the screen.  
+isontop: indicate whether the component is placed ontop.  
 
-font: Sets the font.  
-fontsize: Sets the fontsize, which affects the component display size.  
-isbold: Sets bold text.  
-color: Sets the text color.  
-background: Sets the component background color.  
+font: Set the font.  
+fontsize: Set the fontsize, which affects the component display size.  
+isbold: Set bold text.  
+color: Set the text color.  
+background: Set the component background color.  
 
-opacity: Sets component transparency.  
-isframe: Sets whether to display a border.  
+opacity: Set component transparency.  
+isframe: Set whether to display a border.  
 ```
