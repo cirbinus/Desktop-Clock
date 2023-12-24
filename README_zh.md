@@ -4,7 +4,7 @@
 
 这是一个简洁、美观的桌面时钟。可随意拖拽、改变颜色、大小。  
 
-<img src="show01.png" width=440 height=250>
+<img src="演示.gif" width=400 height=250>
 
 ## 说明
 
