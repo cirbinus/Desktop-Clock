@@ -5,7 +5,7 @@
 This is a simple, beautiful desktop clock.  
 You can drag and change the color and size at will.
 
-<img src="show01.png" width=440 height=250>
+<img src="演示.gif" width=400 height=250>
 
 ## Description
 
