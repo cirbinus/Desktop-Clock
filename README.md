@@ -2,7 +2,8 @@
 
 # Desktop clock
 
-This is a simple, beautiful desktop clock.
+This is a simple, beautiful desktop clock.  
+You can drag and change the color and size at will.
 
 <img src="show01.png" width=440 height=250>
 
