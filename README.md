@@ -7,13 +7,6 @@ You can drag and change the color and size at will.
 
 <img src="演示.gif" width=400 height=250>
 
-## Description
-
-1. The desktop clock is developed based on Python3 and Qt6, and the uploaded file contains the TKinter version.
-2. Quickly change and save colors, sizes, patterns, etc.
-2.Qt6 supports Windows10-11 but does not support Windows XP.
-3. The frosted glass rounded background is not yet implemented, but the api is already in the my_window_effect-py file.
-
 ## Running environment
 
 1. Desktop System (WIN10+)  
@@ -29,10 +22,13 @@ Python3.7.4 64-bit
 
 ### Basic usage
 
-1. Press and hold the left mouse button to drag
-2. Double-click the left mouse button to change the font color
-3. Click the middle mouse button to determine whether to switch to the top layer
-4. Double-click the right mouse button to exit the program
+1. Drag: Hold down the left mouse button.  
+
+2. Switch font color: double-click with the left mouse button.  
+
+3. Open the configuration window: right-click the mouse.  
+
+4. Exit the program: click the middle mouse button.  
 
 ### Configuration file
 ```
