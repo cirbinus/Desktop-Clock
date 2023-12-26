@@ -24,6 +24,7 @@ Python3.7.4 64-bit
 1.拖拽：鼠标左键按住。 
 
 2.切换字体颜色：鼠标左键双击。  
+  [RGB颜色代码表](https://www.rapidtables.org/zh-CN/web/color/RGB_Color.html)
 
 3.打开配置窗口：鼠标右键单击。  
 
