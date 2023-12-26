@@ -25,7 +25,7 @@ Python3.7.4 64-bit
 1. Drag: Hold down the left mouse button.  
 
 2. Switch font color: double-click with the left mouse button.  
-
+ [RGB color picker](https://www.rapidtables.com/web/color/RGB_Color.html)  
 3. Open the configuration window: right-click the mouse.  
 
 4. Exit the program: click the middle mouse button.  
