@@ -43,5 +43,4 @@ color: Set the text color.
 background: Set the component background color.  
 
 opacity: Set component transparency.  
-isframe: Set whether to display a border.  
 ```
