@@ -43,5 +43,4 @@ color：设置文字颜色。
 background：设置组件背景颜色。  
 
 opacity：设置组件透明度。  
-isframe：设置是否显示边框。  
 ```
